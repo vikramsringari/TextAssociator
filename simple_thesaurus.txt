@@ -1,0 +1,8 @@
+happy,estatic,thrilled,joyous
+angry,pissed off,tilted,ragey,furious
+bad,horrible,terrifying,tepid
+hard,difficult,challenging
+really,absolutely,ridiculously 
+good,marvelous,great
+very,bona fide
+smart,brainy,intellegent
